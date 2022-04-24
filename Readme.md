@@ -1,6 +1,6 @@
 # 10 projetos de HTML e CSS para adicionar no seu portfólio
 
-[Vídeo no Youtube](https://youtu.be/y4ltLH9iK8E)
+Vídeo no [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/y4ltLH9iK8E)
 
 ## **1.Landing Pages**
 https://dribbble.com/shots/14953088-spark-marketing-page <br>
