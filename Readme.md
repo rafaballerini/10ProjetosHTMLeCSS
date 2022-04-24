@@ -1,6 +1,6 @@
 # 10 projetos de HTML e CSS para adicionar no seu portfólio
 
-Vídeo no [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/y4ltLH9iK8E)
+[![](https://img.shields.io/badge/%20V%C3%ADdeo%20no%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/y4ltLH9iK8E)
 
 ## **1.Landing Pages**
 |![Dribbble](https://img.shields.io/badge/Dribbble-ffb0ff?style=for-the-badge&logo=dribbble&logoColor=white)|
