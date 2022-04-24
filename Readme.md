@@ -1,8 +1,8 @@
-# 10 projetos de HTML e CSS para adicionar no seu portfólio
+# 🔟 projetos de HTML e CSS para adicionar no seu portfólio
 
 [![](https://img.shields.io/badge/%20V%C3%ADdeo%20no%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/y4ltLH9iK8E)
 
-## **1.Landing Pages**
+## **1️⃣.Landing Pages**
 |![Dribbble](https://img.shields.io/badge/Dribbble-ffb0ff?style=for-the-badge&logo=dribbble&logoColor=white)|
 |--|
 [![](https://img.shields.io/badge/ACESSAR-spark%20marketing%20page-ffb0ff?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/14953088-spark-marketing-page)
@@ -15,7 +15,7 @@
 [![](https://img.shields.io/badge/ACESSAR-Bangtut%20Hero%20Section-ffb0ff?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16356525-Bangtut-Hero-Section)
 
 
-## **2.Páginas de Login e Cadastro** #f89fdd
+## **2️⃣.Páginas de Login e Cadastro** 
 |![Dribbble](https://img.shields.io/badge/Dribbble-f89fdd?style=for-the-badge&logo=dribbble&logoColor=white)|
 |--|
 [![](https://img.shields.io/badge/ACESSAR-Sign%20Up%20Page-f89fdd?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15252242-Sign-Up-Page )
@@ -26,43 +26,41 @@
 [![](https://img.shields.io/badge/ACESSAR-Sign%20Up%20Page-f89fdd?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15846049-Simple-Sign-Up-Page)
 [![](https://img.shields.io/badge/ACESSAR-Sign%20Up%20From-f89fdd?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/14147292-Sign-Up-Form)
 [![](https://img.shields.io/badge/ACESSAR-Ghost%20Sign%20In-f89fdd?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/13993146-Ghost-Sign-In) 
-![]()
+[![](https://img.shields.io/badge/ACESSAR-User%20account%20page%20illustrations-f89fdd?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16383982-User-account-page-illustrations)
 
-<br>
- <br>
-https://dribbble.com/shots/13993146-Ghost-Sign-In <br>
-https://dribbble.com/shots/16383982-User-account-page-illustrations <br>
 
-## **3.Formulário** #f186c5
+## **3️⃣.Formulário** 
 |![Dribbble](https://img.shields.io/badge/Dribbble-f186c5?style=for-the-badge&logo=dribbble&logoColor=white)|
 |--|
-https://dribbble.com/shots/14414277-Subscrify-modals <br>
-https://dribbble.com/shots/9145103-Request-a-demo-page <br>
-https://dribbble.com/shots/16365420-Sign-up-with-illustration <br>
-https://dribbble.com/shots/11785205-Employees-Information-Sytem-Part-3 <br>
-https://dribbble.com/shots/7862230-Checkout-UI-Concept <br>
-https://dribbble.com/shots/16485699-Edit-Task-Light-Dark <br>
-https://dribbble.com/shots/11141590-Registration-form <br>
-https://dribbble.com/shots/12882202-Freelance-Form-Register-DropDown <br>
-https://dribbble.com/shots/3553449-Travel-Form <br>
+[![](https://img.shields.io/badge/ACESSAR-Subscrify%20modals-f186c5?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/14414277-Subscrify-modals)
+[![](https://img.shields.io/badge/ACESSAR-Request%20a%20demo%20page-f186c5?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/9145103-Request-a-demo-page) 
+[![](https://img.shields.io/badge/ACESSAR-Sign%20up%20with%20illustration-f186c5?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16365420-Sign-up-with-illustration) 
+[![](https://img.shields.io/badge/ACESSAR-Employees%20Information%20Sytem%20Part%203-f186c5?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/11785205-Employees-Information-Sytem-Part-3)
+[![](https://img.shields.io/badge/ACESSAR-Checkout%20UI%20Concept-f186c5?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/7862230-Checkout-UI-Concept)
+[![](https://img.shields.io/badge/ACESSAR-Edit%20Task%20Light%20Dark-f186c5?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16485699-Edit-Task-Light-Dark)
+[![](https://img.shields.io/badge/ACESSAR-Registration%20form-f186c5?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/11141590-Registration-form)
+[![](https://img.shields.io/badge/ACESSAR-Freelance%20Form%20Register%20DropDown-f186c5?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/12882202-Freelance-Form-Register-DropDown)
+[![](https://img.shields.io/badge/ACESSAR-Travel%20Form-f186c5?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/3553449-Travel-Form)
 
-## **4.Catálogo de produtos** #ea6cac
+
+## **4️⃣.Catálogo de produtos**
 |![Dribbble](https://img.shields.io/badge/Dribbble-ea6cac?style=for-the-badge&logo=dribbble&logoColor=white)|
 |--|
-https://dribbble.com/shots/15711636-Catalog <br>
-https://dribbble.com/shots/16039018-E-commerce-Furniture-Landing-Page <br>
-https://dribbble.com/shots/13893056-Online-Fashion-Store <br>
-https://dribbble.com/shots/6626669-e-commerce-personalize <br>
-https://dribbble.com/shots/11243718-LH-1064-05-Swimsuits-Catalog <br>
-https://dribbble.com/shots/9004128-Catalog-for-ATF-Cosmetics-store <br>
-https://dribbble.com/shots/5604689-Lindt-Product-Catalog <br>
-https://dribbble.com/shots/5879104-Ulmart-Top-10-Russian-Online-Retailer <br>
-https://dribbble.com/shots/5535038-Flower-Shop <br>
-https://dribbble.com/shots/10066562-Website-for-sweets-shop <br>
-https://dribbble.com/shots/15483957-Catalog-Free-Download <br>
-https://dribbble.com/shots/16233335-Product-card <br>
+[![](https://img.shields.io/badge/ACESSAR-Catalog-ea6cac?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15711636-Catalog)
+[![](https://img.shields.io/badge/ACESSAR-E%20commerce%20Furniture%20Landing%20Pag-ea6cac?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16039018-E-commerce-Furniture-Landing-Page) 
+[![](https://img.shields.io/badge/ACESSAR-Online%20Fashion%20Store-ea6cac?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/13893056-Online-Fashion-Store)
+[![](https://img.shields.io/badge/ACESSAR-e%20commerce%20personalize-ea6cac?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/6626669-e-commerce-personalize)
+[![](https://img.shields.io/badge/ACESSAR-Swimsuits%20Catalog-ea6cac?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/11243718-LH-1064-05-Swimsuits-Catalog)
+[![](https://img.shields.io/badge/ACESSAR-Catalog%20for%20ATF%20Cosmetics%20store-ea6cac?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/9004128-Catalog-for-ATF-Cosmetics-store)
+[![](https://img.shields.io/badge/ACESSAR-Lindt%20Product%20Catalog-ea6cac?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/5604689-Lindt-Product-Catalog)
+[![](https://img.shields.io/badge/ACESSAR-Ulmart%20Top%2010%20Russian%20Online%20Retaile-ea6cac?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/5879104-Ulmart-Top-10-Russian-Online-Retailer)
+[![](https://img.shields.io/badge/ACESSAR-Flower%20Shop-ea6cac?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/5535038-Flower-Shop)
+[![](https://img.shields.io/badge/ACESSAR-Website%20for%20sweets%20shop-ea6cac?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/10066562-Website-for-sweets-shop) 
+[![](https://img.shields.io/badge/ACESSAR-Catalog%20Free%20Download-ea6cac?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15483957-Catalog-Free-Download)
+[![](https://img.shields.io/badge/ACESSAR-Product%20card-ea6cac?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16233335-Product-card)
 
-## **5.Página de notícias ou blog** #e35293
+
+## **5️⃣.Página de notícias ou blog** #e35293
 |![Dribbble](https://img.shields.io/badge/Dribbble-e35293?style=for-the-badge&logo=dribbble&logoColor=white)|
 |--|
 https://dribbble.com/shots/15379976-News-Website <br>
@@ -79,7 +77,7 @@ https://dribbble.com/shots/14377374--Exploration-Sport-News-Hero-Section <br>
 https://dribbble.com/shots/15229042-AGENCY <br>
 https://dribbble.com/shots/16279660-Website-design-for-Izabela-Kielczyk <br>
 
-## **6.Desenhar algum elemento específico**  #c66ece
+## **6️⃣.Desenhar algum elemento específico**  #c66ece
 |![Dribbble](https://img.shields.io/badge/Dribbble-c66ece?style=for-the-badge&logo=dribbble&logoColor=white)|
 |--|
 https://dribbble.com/shots/16289478-3D-Glass-Card-Illustration <br>
@@ -101,7 +99,7 @@ https://dribbble.com/shots/4364095-Rainbow-is-here <br>
 https://dribbble.com/shots/13985244-Colorful-Buttons <br>
 https://dribbble.com/shots/14725005-3D-Switch <br>
 
-## **7.Dashboard**  #ad55b6
+## **7️⃣.Dashboard**  #ad55b6
 |![Dribbble](https://img.shields.io/badge/Dribbble-ad55b6?style=for-the-badge&logo=dribbble&logoColor=white)|
 |--|
 https://dribbble.com/shots/16364085-Wallet-Dashboard-Design <br>
@@ -121,7 +119,7 @@ https://dribbble.com/shots/15804820-Finance-Dashboard-Dark-theme <br>
 https://dribbble.com/shots/15877041-Prostore-Sales-Dashboard <br>
 https://dribbble.com/shots/14973430-Fitness-Tracker-Dashboard <br>
 
-## **8.Email marketing**  #953b9e
+## **8️⃣.Email marketing**  #953b9e
 |![Dribbble](https://img.shields.io/badge/Dribbble-953b9e?style=for-the-badge&logo=dribbble&logoColor=white)|
 |--|
 https://dribbble.com/shots/13801246-Email-Design-Mailchimp <br>
@@ -132,7 +130,7 @@ https://dribbble.com/shots/14238815-Email-Receipt-Design <br>
 https://dribbble.com/shots/15184358-Sendlane-Visual-Identity <br>
 https://dribbble.com/shots/7104528-Mens-Watch-Brand-Email-Design <br>
 
-## **9.To do list/calendário/organização pessoal/notion**  #7c2286
+## **9️⃣.To do list/calendário/organização pessoal/notion**  #7c2286
 |![Dribbble](https://img.shields.io/badge/Dribbble-7c2286?style=for-the-badge&logo=dribbble&logoColor=white)|
 |--|
 https://dribbble.com/shots/5726145-Todo-Web-App <br>
@@ -147,7 +145,7 @@ https://dribbble.com/shots/4517985-Todo-web-app-tidily-io <br>
 https://dribbble.com/shots/3884941-Todooo-Tasks <br>
 https://dribbble.com/shots/14928544-Goal-based-project-management <br>
 
-## **10. Seu portfólio** #63086e
+## **🔟. Seu portfólio** #63086e
 |![Dribbble](https://img.shields.io/badge/Dribbble-63086e?style=for-the-badge&logo=dribbble&logoColor=white)|
 |--|
 https://dribbble.com/shots/15790280-personal-portfolio-Website-UI <br>
