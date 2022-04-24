@@ -18,13 +18,18 @@
 ## **2.Páginas de Login e Cadastro** #f89fdd
 |![Dribbble](https://img.shields.io/badge/Dribbble-f89fdd?style=for-the-badge&logo=dribbble&logoColor=white)|
 |--|
-https://dribbble.com/shots/15252242-Sign-Up-Page <br>
-https://dribbble.com/shots/15820957-Login-Screen-from-Webpixels-Templates <br>
-https://dribbble.com/shots/14019613-Sign-up-form <br>
-https://dribbble.com/shots/14621147-Romeo-Illustrations <br>
-https://dribbble.com/shots/14960376-Sign-Up <br>
-https://dribbble.com/shots/15846049-Simple-Sign-Up-Page <br>
-https://dribbble.com/shots/14147292-Sign-Up-Form <br>
+[![](https://img.shields.io/badge/ACESSAR-Sign%20Up%20Page-f89fdd?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15252242-Sign-Up-Page )
+[![](https://img.shields.io/badge/ACESSAR-Login%20Screen%20from%20Webpixels%20Templates-f89fdd?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15820957-Login-Screen-from-Webpixels-Templates)
+[![](https://img.shields.io/badge/ACESSAR-Sign%20up%20form-f89fdd?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/14019613-Sign-up-form)
+[![](https://img.shields.io/badge/ACESSAR-Romeo%20Illustration-f89fdd?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/14621147-Romeo-Illustrations)
+[![](https://img.shields.io/badge/ACESSAR-Sign%20Up-f89fdd?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/14960376-Sign-Up)
+[![](https://img.shields.io/badge/ACESSAR-Sign%20Up%20Page-f89fdd?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15846049-Simple-Sign-Up-Page)
+[![](https://img.shields.io/badge/ACESSAR-Sign%20Up%20From-f89fdd?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/14147292-Sign-Up-Form)
+[![](https://img.shields.io/badge/ACESSAR-Ghost%20Sign%20In-f89fdd?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/13993146-Ghost-Sign-In) 
+![]()
+
+<br>
+ <br>
 https://dribbble.com/shots/13993146-Ghost-Sign-In <br>
 https://dribbble.com/shots/16383982-User-account-page-illustrations <br>
 
