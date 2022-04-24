@@ -63,19 +63,20 @@
 ## **5️⃣.Página de notícias ou blog** #e35293
 |![Dribbble](https://img.shields.io/badge/Dribbble-e35293?style=for-the-badge&logo=dribbble&logoColor=white)|
 |--|
-https://dribbble.com/shots/15379976-News-Website <br>
-https://dribbble.com/shots/14435664--Exploration-Article-Page <br>
-https://dribbble.com/shots/16385499-News-Site <br>
-https://dribbble.com/shots/14134149-Penlon-News-Page <br>
-https://dribbble.com/shots/6863071-News <br>
-https://dribbble.com/shots/11030123-Retro-News-Components <br>
-https://dribbble.com/shots/11958568-Farimarket-article-page <br>
-https://dribbble.com/shots/15601683-Personal-Blog-Layout <br>
-https://dribbble.com/shots/15395473-Personal-Blog <br>
-https://dribbble.com/shots/14481273-Portfolio-Courses-website-Blog <br>
-https://dribbble.com/shots/14377374--Exploration-Sport-News-Hero-Section <br>
-https://dribbble.com/shots/15229042-AGENCY <br>
-https://dribbble.com/shots/16279660-Website-design-for-Izabela-Kielczyk <br>
+[![](https://img.shields.io/badge/ACESSAR-News%20Website-e35293?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15379976-News-Website)
+[![](https://img.shields.io/badge/ACESSAR-Exploration%20Article%20Page-e35293?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/14435664--Exploration-Article-Page)
+[![](https://img.shields.io/badge/ACESSAR-News%20Site-e35293?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16385499-News-Site)
+[![](https://img.shields.io/badge/ACESSAR-Penlon%20News%20Page-e35293?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/14134149-Penlon-News-Page )
+[![](https://img.shields.io/badge/ACESSAR-News-e35293?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/6863071-News )
+[![](https://img.shields.io/badge/ACESSAR-Retro%20News%20Components-e35293?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/11030123-Retro-News-Components)
+[![](https://img.shields.io/badge/ACESSAR-Farimarket%20article%20page-e35293?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/11958568-Farimarket-article-page)
+[![](https://img.shields.io/badge/ACESSAR-Personal%20Blog%20Layout-e35293?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15601683-Personal-Blog-Layout)
+[![](https://img.shields.io/badge/ACESSAR-Personal%20Blog-e35293?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15395473-Personal-Blog)
+[![](https://img.shields.io/badge/ACESSAR-Portfolio%20Courses%20website%20Blog-e35293?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/14481273-Portfolio-Courses-website-Blog)
+[![](https://img.shields.io/badge/ACESSAR-Exploration%20Sport%20News%20Hero%20Section-e35293?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/14377374--Exploration-Sport-News-Hero-Section)
+[![](https://img.shields.io/badge/ACESSAR-AGENCY-e35293?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15229042-AGENCY)
+[![](https://img.shields.io/badge/ACESSAR-Website%20design%20for%20Izabela%20Kielczyk-e35293?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16279660-Website-design-for-Izabela-Kielczyk)
+
 
 ## **6️⃣.Desenhar algum elemento específico**  #c66ece
 |![Dribbble](https://img.shields.io/badge/Dribbble-c66ece?style=for-the-badge&logo=dribbble&logoColor=white)|
