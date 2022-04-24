@@ -3,21 +3,21 @@
 Vídeo no [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/y4ltLH9iK8E)
 
 ## **1.Landing Pages**
-|![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)|
+|![Dribbble](https://img.shields.io/badge/Dribbble-ffb0ff?style=for-the-badge&logo=dribbble&logoColor=white)|
 |--|
-[![](https://img.shields.io/badge/ACESSAR-spark%20marketing%20page-ff69b4?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/14953088-spark-marketing-page)
-[![](https://img.shields.io/badge/ACESSAR-Product%20page%20hero%20section-ff69b4?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15798662-Product-page-hero-section)
-[![](https://img.shields.io/badge/ACESSAR-digital%20education%20website%20design-ff69b4?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16256966-digital-education-website-design)
-[![](https://img.shields.io/badge/ACESSAR-shopify%20website%20landing%20page%20design-ff69b4?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16151477-shopify-website-landing-page-design)
-[![](https://img.shields.io/badge/ACESSAR-SaaS%20Design%20in%20Webfllow-ff69b4?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16249097-SaaS-Design-in-Webfllow)
-[![](https://img.shields.io/badge/ACESSAR-Landing%20Page%20UX%20UI%20Design-ff69b4?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15096546-Landing-Page-UX-UI-Design)
-[![](https://img.shields.io/badge/ACESSAR-website%20landing%20page-ff69b4?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16186293-website-landing-page)
-[![](https://img.shields.io/badge/ACESSAR-Bangtut%20Hero%20Section-ff69b4?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16356525-Bangtut-Hero-Section)
+[![](https://img.shields.io/badge/ACESSAR-spark%20marketing%20page-ffb0ff?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/14953088-spark-marketing-page)
+[![](https://img.shields.io/badge/ACESSAR-Product%20page%20hero%20section-ffb0ff?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15798662-Product-page-hero-section)
+[![](https://img.shields.io/badge/ACESSAR-digital%20education%20website%20design-ffb0ff?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16256966-digital-education-website-design)
+[![](https://img.shields.io/badge/ACESSAR-shopify%20website%20landing%20page%20design-ffb0ff?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16151477-shopify-website-landing-page-design)
+[![](https://img.shields.io/badge/ACESSAR-SaaS%20Design%20in%20Webfllow-ffb0ff?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16249097-SaaS-Design-in-Webfllow)
+[![](https://img.shields.io/badge/ACESSAR-Landing%20Page%20UX%20UI%20Design-ffb0ff?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15096546-Landing-Page-UX-UI-Design)
+[![](https://img.shields.io/badge/ACESSAR-website%20landing%20page-ffb0ff?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16186293-website-landing-page)
+[![](https://img.shields.io/badge/ACESSAR-Bangtut%20Hero%20Section-ffb0ff?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16356525-Bangtut-Hero-Section)
 
  <br>
  <br>
 
-## **2.Páginas de Login e Cadastro**
+## **2.Páginas de Login e Cadastro** #f89fdd
 https://dribbble.com/shots/15252242-Sign-Up-Page <br>
 https://dribbble.com/shots/15820957-Login-Screen-from-Webpixels-Templates <br>
 https://dribbble.com/shots/14019613-Sign-up-form <br>
@@ -28,7 +28,7 @@ https://dribbble.com/shots/14147292-Sign-Up-Form <br>
 https://dribbble.com/shots/13993146-Ghost-Sign-In <br>
 https://dribbble.com/shots/16383982-User-account-page-illustrations <br>
 
-## **3.Formulário**
+## **3.Formulário** #f186c5
 https://dribbble.com/shots/14414277-Subscrify-modals <br>
 https://dribbble.com/shots/9145103-Request-a-demo-page <br>
 https://dribbble.com/shots/16365420-Sign-up-with-illustration <br>
@@ -39,7 +39,7 @@ https://dribbble.com/shots/11141590-Registration-form <br>
 https://dribbble.com/shots/12882202-Freelance-Form-Register-DropDown <br>
 https://dribbble.com/shots/3553449-Travel-Form <br>
 
-## **4.Catálogo de produtos**
+## **4.Catálogo de produtos** #ea6cac
 https://dribbble.com/shots/15711636-Catalog <br>
 https://dribbble.com/shots/16039018-E-commerce-Furniture-Landing-Page <br>
 https://dribbble.com/shots/13893056-Online-Fashion-Store <br>
@@ -53,7 +53,7 @@ https://dribbble.com/shots/10066562-Website-for-sweets-shop <br>
 https://dribbble.com/shots/15483957-Catalog-Free-Download <br>
 https://dribbble.com/shots/16233335-Product-card <br>
 
-## **5.Página de notícias ou blog**
+## **5.Página de notícias ou blog** #e35293
 https://dribbble.com/shots/15379976-News-Website <br>
 https://dribbble.com/shots/14435664--Exploration-Article-Page <br>
 https://dribbble.com/shots/16385499-News-Site <br>
@@ -68,7 +68,7 @@ https://dribbble.com/shots/14377374--Exploration-Sport-News-Hero-Section <br>
 https://dribbble.com/shots/15229042-AGENCY <br>
 https://dribbble.com/shots/16279660-Website-design-for-Izabela-Kielczyk <br>
 
-## **6.Desenhar algum elemento específico**
+## **6.Desenhar algum elemento específico** #ffffc7
 https://dribbble.com/shots/16289478-3D-Glass-Card-Illustration <br>
 https://dribbble.com/shots/13978524-Button <br>
 https://dribbble.com/shots/7268454-Rubber-Slider <br>
@@ -88,7 +88,7 @@ https://dribbble.com/shots/4364095-Rainbow-is-here <br>
 https://dribbble.com/shots/13985244-Colorful-Buttons <br>
 https://dribbble.com/shots/14725005-3D-Switch <br>
 
-## **7.Dashboard**
+## **7.Dashboard** #f9f0af
 https://dribbble.com/shots/16364085-Wallet-Dashboard-Design <br>
 https://dribbble.com/shots/15378686-Task-Management-Dashboard-Design <br>
 https://dribbble.com/shots/15543862-Finance-Dashboard-Dark-theme <br>
@@ -106,7 +106,7 @@ https://dribbble.com/shots/15804820-Finance-Dashboard-Dark-theme <br>
 https://dribbble.com/shots/15877041-Prostore-Sales-Dashboard <br>
 https://dribbble.com/shots/14973430-Fitness-Tracker-Dashboard <br>
 
-## **8.Email marketing**
+## **8.Email marketing** #f3e196
 https://dribbble.com/shots/13801246-Email-Design-Mailchimp <br>
 https://dribbble.com/shots/8810403-Referral-Program <br>
 https://dribbble.com/shots/6153546-anyExcuse-Newsletter-Template <br>
@@ -115,7 +115,7 @@ https://dribbble.com/shots/14238815-Email-Receipt-Design <br>
 https://dribbble.com/shots/15184358-Sendlane-Visual-Identity <br>
 https://dribbble.com/shots/7104528-Mens-Watch-Brand-Email-Design <br>
 
-## **9.To do list/calendário/organização pessoal/notion**
+## **9.To do list/calendário/organização pessoal/notion** #edd27e
 https://dribbble.com/shots/5726145-Todo-Web-App <br>
 https://dribbble.com/shots/7882888-Daily-UI-042-To-Do-List <br>
 https://dribbble.com/shots/3383167-To-Do-List <br>
@@ -128,7 +128,7 @@ https://dribbble.com/shots/4517985-Todo-web-app-tidily-io <br>
 https://dribbble.com/shots/3884941-Todooo-Tasks <br>
 https://dribbble.com/shots/14928544-Goal-based-project-management <br>
 
-## **10. Seu portfólio**
+## **10. Seu portfólio** #e7c365
 https://dribbble.com/shots/15790280-personal-portfolio-Website-UI <br>
 https://dribbble.com/shots/16077352-Personal-Portfolio-Site-Bruno-Erdison <br>
 https://dribbble.com/shots/15534060-Freelancer-Personal-Portfolio-Website-UI-Design <br>
