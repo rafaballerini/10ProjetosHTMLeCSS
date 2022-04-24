@@ -6,14 +6,16 @@ Vídeo no [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=f
 |![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)|
 |--|
 [![](https://img.shields.io/badge/ACESSAR-spark%20marketing%20page-ff69b4?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/14953088-spark-marketing-page)
+[![](https://img.shields.io/badge/ACESSAR-Product%20page%20hero%20section-ff69b4?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15798662-Product-page-hero-section)
+[![](https://img.shields.io/badge/ACESSAR-digital%20education%20website%20design-ff69b4?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16256966-digital-education-website-design)
+[![](https://img.shields.io/badge/ACESSAR-shopify%20website%20landing%20page%20design-ff69b4?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16151477-shopify-website-landing-page-design)
+[![](https://img.shields.io/badge/ACESSAR-SaaS%20Design%20in%20Webfllow-ff69b4?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16249097-SaaS-Design-in-Webfllow)
+[![](https://img.shields.io/badge/ACESSAR-Landing%20Page%20UX%20UI%20Design-ff69b4?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15096546-Landing-Page-UX-UI-Design)
+[![](https://img.shields.io/badge/ACESSAR-website%20landing%20page-ff69b4?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16186293-website-landing-page)
+[![](https://img.shields.io/badge/ACESSAR-Bangtut%20Hero%20Section-ff69b4?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16356525-Bangtut-Hero-Section)
 
-https://dribbble.com/shots/15798662-Product-page-hero-section <br>
-https://dribbble.com/shots/16256966-digital-education-website-design <br>
-https://dribbble.com/shots/16151477-shopify-website-landing-page-design <br>
-https://dribbble.com/shots/16249097-SaaS-Design-in-Webfllow <br>
-https://dribbble.com/shots/15096546-Landing-Page-UX-UI-Design <br>
-https://dribbble.com/shots/16186293-website-landing-page <br>
-https://dribbble.com/shots/16356525-Bangtut-Hero-Section <br>
+ <br>
+ <br>
 
 ## **2.Páginas de Login e Cadastro**
 https://dribbble.com/shots/15252242-Sign-Up-Page <br>
