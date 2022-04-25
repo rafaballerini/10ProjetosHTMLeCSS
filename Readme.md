@@ -122,21 +122,23 @@
 [![](https://img.shields.io/badge/ACESSAR-Fitness%20Tracker%20Dashboard-ad55b6?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/14973430-Fitness-Tracker-Dashboard)
 
 
-## **8️⃣.Email marketing**  #953b9e
+## **8️⃣.Email marketing** 
 |![Dribbble](https://img.shields.io/badge/Dribbble-953b9e?style=for-the-badge&logo=dribbble&logoColor=white)|
 |--|
-https://dribbble.com/shots/13801246-Email-Design-Mailchimp <br>
-https://dribbble.com/shots/8810403-Referral-Program <br>
-https://dribbble.com/shots/6153546-anyExcuse-Newsletter-Template <br>
-https://dribbble.com/shots/14554850-Order-Confirmation-Email-Dark-UI <br>
-https://dribbble.com/shots/14238815-Email-Receipt-Design <br>
-https://dribbble.com/shots/15184358-Sendlane-Visual-Identity <br>
-https://dribbble.com/shots/7104528-Mens-Watch-Brand-Email-Design <br>
+[![](https://img.shields.io/badge/ACESSAR-Email%20Design%20Mailchimp-953b9e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/13801246-Email-Design-Mailchimp)
+[![](https://img.shields.io/badge/ACESSAR-Referral%20Program-953b9e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/8810403-Referral-Program)
+[![](https://img.shields.io/badge/ACESSAR-anyExcuse%20Newsletter%20Template-953b9e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/6153546-anyExcuse-Newsletter-Template)
+[![](https://img.shields.io/badge/ACESSAR-Order%20Confirmation%20Email%20Dark%20UI-953b9e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/14554850-Order-Confirmation-Email-Dark-UI)
+[![](https://img.shields.io/badge/ACESSAR-Email%20Receipt%20Design-953b9e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/14238815-Email-Receipt-Design)
+[![](https://img.shields.io/badge/ACESSAR-Sendlane%20Visual%20Identity-953b9e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15184358-Sendlane-Visual-Identity)
+[![](https://img.shields.io/badge/ACESSAR-Mens%20Watch%20Brand%20Email%20Design-953b9e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/7104528-Mens-Watch-Brand-Email-Design)
+
 
 ## **9️⃣.To do list/calendário/organização pessoal/notion**  #7c2286
 |![Dribbble](https://img.shields.io/badge/Dribbble-7c2286?style=for-the-badge&logo=dribbble&logoColor=white)|
 |--|
-https://dribbble.com/shots/5726145-Todo-Web-App <br>
+[![](https://img.shields.io/badge/ACESSAR-Todo%20Web%20App-953b9e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/5726145-Todo-Web-App)
+ <br>
 https://dribbble.com/shots/7882888-Daily-UI-042-To-Do-List <br>
 https://dribbble.com/shots/3383167-To-Do-List <br>
 https://dribbble.com/shots/14238178-To-Do-List <br>
