@@ -134,33 +134,34 @@
 [![](https://img.shields.io/badge/ACESSAR-Mens%20Watch%20Brand%20Email%20Design-953b9e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/7104528-Mens-Watch-Brand-Email-Design)
 
 
-## **9️⃣.To do list/calendário/organização pessoal/notion**  #7c2286
+## **9️⃣.To do list/calendário/organização pessoal/notion** 
 |![Dribbble](https://img.shields.io/badge/Dribbble-7c2286?style=for-the-badge&logo=dribbble&logoColor=white)|
 |--|
 [![](https://img.shields.io/badge/ACESSAR-Todo%20Web%20App-953b9e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/5726145-Todo-Web-App)
- <br>
-https://dribbble.com/shots/7882888-Daily-UI-042-To-Do-List <br>
-https://dribbble.com/shots/3383167-To-Do-List <br>
-https://dribbble.com/shots/14238178-To-Do-List <br>
-https://dribbble.com/shots/15850805-Calendar-App-Concept <br>
-https://dribbble.com/shots/5019211-Simple-To-Do-List-App-UI-Concent <br>
-https://dribbble.com/shots/10544666-Hyperskill-To-Do-List-course <br>
-https://dribbble.com/shots/2366419-Projects-http-getlaps-com <br>
-https://dribbble.com/shots/4517985-Todo-web-app-tidily-io <br>
-https://dribbble.com/shots/3884941-Todooo-Tasks <br>
-https://dribbble.com/shots/14928544-Goal-based-project-management <br>
+[![](https://img.shields.io/badge/ACESSAR-Daily%20UI%20042%20To%20Do%20List-953b9e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/7882888-Daily-UI-042-To-Do-List)
+[![](https://img.shields.io/badge/ACESSAR-To%20Do%20List-953b9e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/3383167-To-Do-List)
+[![](https://img.shields.io/badge/ACESSAR-To%20Do%20List-953b9e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/14238178-To-Do-List)
+[![](https://img.shields.io/badge/ACESSAR-Calendar%20App%20Concept-953b9e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15850805-Calendar-App-Concept)
+[![](https://img.shields.io/badge/ACESSAR-Simple%20To%20Do%20List%20App%20UI%20Concent-953b9e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/5019211-Simple-To-Do-List-App-UI-Concent)
+[![](https://img.shields.io/badge/ACESSAR-Hyperskill%20To%20Do%20List%20course-953b9e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/10544666-Hyperskill-To-Do-List-course)
+[![](https://img.shields.io/badge/ACESSAR-Projects%20http%20getlaps%20com-953b9e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/2366419-Projects-http-getlaps-com)
+[![](https://img.shields.io/badge/ACESSAR-Todo%20web%20app%20tidily%20io-953b9e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/4517985-Todo-web-app-tidily-io)
+[![](https://img.shields.io/badge/ACESSAR-Todooo%20Tasks-953b9e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/3884941-Todooo-Tasks)
+[![](https://img.shields.io/badge/ACESSAR-Goal%20based%20project%20management-953b9e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/14928544-Goal-based-project-management)
+
 
 ## **🔟. Seu portfólio** #63086e
 |![Dribbble](https://img.shields.io/badge/Dribbble-63086e?style=for-the-badge&logo=dribbble&logoColor=white)|
 |--|
-https://dribbble.com/shots/15790280-personal-portfolio-Website-UI <br>
-https://dribbble.com/shots/16077352-Personal-Portfolio-Site-Bruno-Erdison <br>
-https://dribbble.com/shots/15534060-Freelancer-Personal-Portfolio-Website-UI-Design <br>
-https://dribbble.com/shots/14832163-JOHN-Developer-Portfolio-Website <br>
-https://dribbble.com/shots/15566022-Personal-portfolio-landing-page <br>
-https://dribbble.com/shots/15176184-Portfolio-Landing-Page <br>
-https://dribbble.com/shots/15473091-MoonexLab-Digital-Agency-Index <br>
-https://dribbble.com/shots/14135859-JanLosert-com-V4-Live <br>
+[![](https://img.shields.io/badge/ACESSAR-personal%20portfolio%20Website%20UI-63086e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15790280-personal-portfolio-Website-UI)
+[![](https://img.shields.io/badge/ACESSAR-Personal%20Portfolio%20Site%20Bruno%20Erdison-63086e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16077352-Personal-Portfolio-Site-Bruno-Erdison) 
+[![](https://img.shields.io/badge/ACESSAR-Freelancer%20Personal%20Portfolio%20Website%20UI%20Design-63086e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15534060-Freelancer-Personal-Portfolio-Website-UI-Design)
+[![](https://img.shields.io/badge/ACESSAR-JOHN%20Developer%20Portfolio%20Website-63086e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/14832163-JOHN-Developer-Portfolio-Website)
+[![](https://img.shields.io/badge/ACESSAR-Personal%20portfolio%20landing%20page-63086e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15566022-Personal-portfolio-landing-page)
+[![](https://img.shields.io/badge/ACESSAR-Portfolio%20Landing%20Page-63086e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15176184-Portfolio-Landing-Page)
+[![](https://img.shields.io/badge/ACESSAR-MoonexLab%20Digital%20Agency%20Index-63086e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15473091-MoonexLab-Digital-Agency-Index)
+[![](https://img.shields.io/badge/ACESSAR-JanLosert%20com%20V4%20Live-63086e?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/14135859-JanLosert-com-V4-Live)
+ 
 
 ## Dicas para te ajudar durante o desenvolvimento
 
