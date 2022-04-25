@@ -60,7 +60,7 @@
 [![](https://img.shields.io/badge/ACESSAR-Product%20card-ea6cac?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16233335-Product-card)
 
 
-## **5️⃣.Página de notícias ou blog** #e35293
+## **5️⃣.Página de notícias ou blog** 
 |![Dribbble](https://img.shields.io/badge/Dribbble-e35293?style=for-the-badge&logo=dribbble&logoColor=white)|
 |--|
 [![](https://img.shields.io/badge/ACESSAR-News%20Website-e35293?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15379976-News-Website)
@@ -78,47 +78,49 @@
 [![](https://img.shields.io/badge/ACESSAR-Website%20design%20for%20Izabela%20Kielczyk-e35293?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16279660-Website-design-for-Izabela-Kielczyk)
 
 
-## **6️⃣.Desenhar algum elemento específico**  #c66ece
+## **6️⃣.Desenhar algum elemento específico**  
 |![Dribbble](https://img.shields.io/badge/Dribbble-c66ece?style=for-the-badge&logo=dribbble&logoColor=white)|
 |--|
-https://dribbble.com/shots/16289478-3D-Glass-Card-Illustration <br>
-https://dribbble.com/shots/13978524-Button <br>
-https://dribbble.com/shots/7268454-Rubber-Slider <br>
-https://dribbble.com/shots/14712568-CSS-Glowin-Drop-version <br>
-https://dribbble.com/shots/15491646-phone-icon-set <br>
-https://dribbble.com/shots/14052578-Star-Toggle <br>
-https://dribbble.com/shots/14185527-Figma-UI-kit-React-components-Counter <br>
-https://dribbble.com/shots/3541363-Clock <br>
-https://dribbble.com/shots/3978148-CSS-Advocat <br>
-https://dribbble.com/shots/7425055-Book-Loader <br>
-https://dribbble.com/shots/8424211-Smoke-Slider <br>
-https://dribbble.com/shots/9070657-Heart-Switch <br>
-https://dribbble.com/shots/9828547-Feedback-Reactions <br>
-https://dribbble.com/shots/11139240-Thumbs-up-button <br>
-https://dribbble.com/shots/12287144-Rating <br>
-https://dribbble.com/shots/4364095-Rainbow-is-here <br>
-https://dribbble.com/shots/13985244-Colorful-Buttons <br>
-https://dribbble.com/shots/14725005-3D-Switch <br>
+[![](https://img.shields.io/badge/ACESSAR-3D%20Glass%20Card%20Illustration-c66ece?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16289478-3D-Glass-Card-Illustration)
+[![](https://img.shields.io/badge/ACESSAR-Button-c66ece?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/13978524-Button)
+[![](https://img.shields.io/badge/ACESSAR-Rubber%20Slider-c66ece?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/7268454-Rubber-Slider)
+[![](https://img.shields.io/badge/ACESSAR-CSS%20Glowin%20Drop%20version-c66ece?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/14712568-CSS-Glowin-Drop-version)
+[![](https://img.shields.io/badge/ACESSAR-phone%20icon%20set-c66ece?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15491646-phone-icon-set)
+[![](https://img.shields.io/badge/ACESSAR-Star%20Toggle-c66ece?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/14052578-Star-Toggle)
+[![](https://img.shields.io/badge/ACESSAR-Figma%20UI%20kit%20React%20components%20Counter-c66ece?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/14185527-Figma-UI-kit-React-components-Counter)
+[![](https://img.shields.io/badge/ACESSAR-Clock-c66ece?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/3541363-Clock)
+[![](https://img.shields.io/badge/ACESSAR-CSS%20Advoca-c66ece?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/3978148-CSS-Advocat)
+[![](https://img.shields.io/badge/ACESSAR-Book%20Loade-c66ece?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/7425055-Book-Loader)
+[![](https://img.shields.io/badge/ACESSAR-Smoke%20Slider-c66ece?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/8424211-Smoke-Slider)
+[![](https://img.shields.io/badge/ACESSAR-Heart%20Switchr-c66ece?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/9070657-Heart-Switch)
+[![](https://img.shields.io/badge/ACESSAR-Feedback%20Reactions-c66ece?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/9828547-Feedback-Reactions)
+[![](https://img.shields.io/badge/ACESSAR-Thumbs%20up%20button-c66ece?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/11139240-Thumbs-up-button)
+[![](https://img.shields.io/badge/ACESSAR-Rating-c66ece?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/12287144-Rating)
+[![](https://img.shields.io/badge/ACESSAR-Rainbow%20is%20here-c66ece?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/4364095-Rainbow-is-here)
+[![](https://img.shields.io/badge/ACESSAR-Colorful%20Buttons-c66ece?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/13985244-Colorful-Buttons)
+[![](https://img.shields.io/badge/ACESSAR-3D%20Switch-c66ece?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/14725005-3D-Switch)
 
-## **7️⃣.Dashboard**  #ad55b6
+
+## **7️⃣.Dashboard**  
 |![Dribbble](https://img.shields.io/badge/Dribbble-ad55b6?style=for-the-badge&logo=dribbble&logoColor=white)|
 |--|
-https://dribbble.com/shots/16364085-Wallet-Dashboard-Design <br>
-https://dribbble.com/shots/15378686-Task-Management-Dashboard-Design <br>
-https://dribbble.com/shots/15543862-Finance-Dashboard-Dark-theme <br>
-https://dribbble.com/shots/15501287-Finance-Dashboard-Design <br>
-https://dribbble.com/shots/16362432-E-learning-platform-dashboard <br>
-https://dribbble.com/shots/16152318-Tukunen-Sales-Analytics-Dashboard <br>
-https://dribbble.com/shots/15023587-File-Manager-Dashboard-design <br>
-https://dribbble.com/shots/15271947-Finance-Dashboard-UX-UI-Design <br>
-https://dribbble.com/shots/15145910-Store-Admin-Panel <br>
-https://dribbble.com/shots/16508365-Finance-Dashboard-Design <br>
-https://dribbble.com/shots/16097888-Dark-Theme-for-Project-Management-Dashboard-Animation <br>
-https://dribbble.com/shots/15223174-Project-Management-Dashboard-UI-Exploration <br>
-https://dribbble.com/shots/16018192-Digital-Wallet-Dashboard-UI-Dark-Theme <br>
-https://dribbble.com/shots/15804820-Finance-Dashboard-Dark-theme <br>
-https://dribbble.com/shots/15877041-Prostore-Sales-Dashboard <br>
-https://dribbble.com/shots/14973430-Fitness-Tracker-Dashboard <br>
+[![](https://img.shields.io/badge/ACESSAR-Wallet%20Dashboard%20Design-ad55b6?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16364085-Wallet-Dashboard-Design)
+[![](https://img.shields.io/badge/ACESSAR-Task%20Management%20Dashboard%20Design-ad55b6?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15378686-Task-Management-Dashboard-Design)
+[![](https://img.shields.io/badge/ACESSAR-Finance%20Dashboard%20Dark%20theme-ad55b6?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15543862-Finance-Dashboard-Dark-theme)
+[![](https://img.shields.io/badge/ACESSAR-Finance%20Dashboard%20Design-ad55b6?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15501287-Finance-Dashboard-Design)
+[![](https://img.shields.io/badge/ACESSAR-E%20learning%20platform%20dashboard-ad55b6?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16362432-E-learning-platform-dashboard)
+[![](https://img.shields.io/badge/ACESSAR-Tukunen%20Sales%20Analytics%20Dashboard-ad55b6?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16152318-Tukunen-Sales-Analytics-Dashboard)
+[![](https://img.shields.io/badge/ACESSAR-File%20Manager%20Dashboard%20design-ad55b6?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15023587-File-Manager-Dashboard-design)
+[![](https://img.shields.io/badge/ACESSAR-Finance%20Dashboard%20UX%20UI%20Design-ad55b6?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15271947-Finance-Dashboard-UX-UI-Design)
+[![](https://img.shields.io/badge/ACESSAR-Store%20Admin%20Panel-ad55b6?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15145910-Store-Admin-Panel)
+[![](https://img.shields.io/badge/ACESSAR-Finance%20Dashboard%20Design-ad55b6?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16508365-Finance-Dashboard-Design)
+[![](https://img.shields.io/badge/ACESSAR-Dark%20Theme%20for%20Project%20Management%20Dashboard%20Animation-ad55b6?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16097888-Dark-Theme-for-Project-Management-Dashboard-Animation)
+[![](https://img.shields.io/badge/ACESSAR-Project%20Management%20Dashboard%20UI%20Exploration-ad55b6?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15223174-Project-Management-Dashboard-UI-Exploration)
+[![](https://img.shields.io/badge/ACESSAR-Digital%20Wallet%20Dashboard%20UI%20Dark%20Theme-ad55b6?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/16018192-Digital-Wallet-Dashboard-UI-Dark-Theme)
+[![](https://img.shields.io/badge/ACESSAR-Finance%20Dashboard%20Dark%20theme-ad55b6?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15804820-Finance-Dashboard-Dark-theme)
+[![](https://img.shields.io/badge/ACESSAR-Prostore%20Sales%20Dashboard-ad55b6?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/15877041-Prostore-Sales-Dashboard)
+[![](https://img.shields.io/badge/ACESSAR-Fitness%20Tracker%20Dashboard-ad55b6?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/14973430-Fitness-Tracker-Dashboard)
+
 
 ## **8️⃣.Email marketing**  #953b9e
 |![Dribbble](https://img.shields.io/badge/Dribbble-953b9e?style=for-the-badge&logo=dribbble&logoColor=white)|
